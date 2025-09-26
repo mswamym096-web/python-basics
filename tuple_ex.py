@@ -1,0 +1,11 @@
+t1 = (1,2,3)
+print(t1)
+t2 = 1,2,3,4
+print(t2)
+print(t2[0])
+fruits = ("hello",)
+print(fruits)
+normalt =("apple","banana")
+newlist =list(normalt)
+newlist.append("mango")
+print(newlist)

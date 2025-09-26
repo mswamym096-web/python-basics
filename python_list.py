@@ -49,9 +49,9 @@
 # roll_no.short()
 # print(roll_no)
 # print(roll_no[2])
-names=['mahi','shivu','shree','ram']
-print(names)
-print(names[0:])
+# names=['mahi','shivu','shree','ram']
+# print(names)
+# print(names[0:])
 # print(len(roll_no))
 # print(rool_no[0:5])
 # print(roll_no[-1])
@@ -69,9 +69,9 @@ print(names[0:])
 
 
 
-dm =[['ram','shivu','sangu'],['ravi','ramesh'],['pavan','raghu'],"hi",True]
-print(dm)
-dm[1].append(['siddu','balaji'])
-dm[0].append('karadi')
-dm[0].extend(['ranga','sunil'])
-print(dm)
+# dm =[['ram','shivu','sangu'],['ravi','ramesh'],['pavan','raghu'],"hi",True]
+# print(dm)
+# dm[1].append(['siddu','balaji'])
+# dm[0].append('karadi')
+# dm[0].extend(['ranga','sunil'])
+# print(dm)
