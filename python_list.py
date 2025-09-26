@@ -49,9 +49,9 @@
 # roll_no.short()
 # print(roll_no)
 # print(roll_no[2])
-# names=['mahi','shivu','shree','ram']
-# print(names)
-# print(names[0:3])
+names=['mahi','shivu','shree','ram']
+print(names)
+print(names[0:])
 # print(len(roll_no))
 # print(rool_no[0:5])
 # print(roll_no[-1])
