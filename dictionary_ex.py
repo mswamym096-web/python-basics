@@ -36,4 +36,4 @@ persons = [{ "name":"shiv",
 ]
 
 shivinfo,mahadevinfo= persons
-print(mahadevinfo,shivinfo)
+print(mahadevinfo["company"])
