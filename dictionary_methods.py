@@ -19,3 +19,4 @@ print(emp)
 value = emp.pop('ismarried')
 print(emp)
 print(value)
+
