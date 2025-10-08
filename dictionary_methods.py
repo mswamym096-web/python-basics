@@ -20,3 +20,4 @@ value = emp.pop('ismarried')
 print(emp)
 print(value)
 
+# get method
