@@ -1,8 +1,8 @@
-# # fruits = ["apple","orange","banana"]
-# # myfruits = fruits
-# # myfruits.append("graphes")
-# # print(id(fruits))
-# # print(id(myfruits))
+fruits = ["apple","orange","banana"]
+myfruits = fruits
+myfruits.append("graphes")
+print(id(fruits))
+print(id(myfruits))
 
 
 # # numbers = [1,2,3,4,5,6,7]
@@ -69,9 +69,15 @@
 
 
 
-# dm =[['ram','shivu','sangu'],['ravi','ramesh'],['pavan','raghu'],"hi",True]
-# print(dm)
-# dm[1].append(['siddu','balaji'])
-# dm[0].append('karadi')
-# dm[0].extend(['ranga','sunil'])
-# print(dm)
+dm =[['ram','shivu','sangu'],['ravi','ramesh'],['pavan','raghu'],"hi",True]
+print(dm)
+dm[1].append(['siddu','balaji'])
+dm[0].append('karadi')
+dm[0].extend(['ranga','sunil'])
+print(dm)
+
+fruits = ["apple","orange","banana","cherry"]
+myfruits = fruits
+myfruits.append("graphes")
+print(id(fruits))
+print(id(myfruits))

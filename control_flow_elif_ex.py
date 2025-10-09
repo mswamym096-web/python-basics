@@ -1,17 +1,17 @@
-# marks = 51
-# if marks == 36:
-#     print("pass")
-# elif marks == 50:
-#     print("b+")
-# elif marks == 80:
-#     print("a")
-# elif marks == 90:
-#     print("a+")
-# else: 
-#     print("i dont know")
+marks = 80
+if marks == 36:
+    print("pass")
+elif marks == 50:
+    print("b+")
+elif marks == 80:
+    print("a")
+elif marks == 90:
+    print("a+")
+else: 
+    print("i dont know")
 
 
-marks = "a"
+marks = "*"
 if marks == "+":
     print("add")
 elif marks == "-":

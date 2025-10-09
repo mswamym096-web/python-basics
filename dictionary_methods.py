@@ -1,4 +1,4 @@
-emp = {
+  emp = {
     "name":"abcd",
     "email":"abcd@gamil.com"
 }

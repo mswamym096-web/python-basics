@@ -1,9 +1,9 @@
-# name = "mahi1"
-# password = "mahi@123"
-# if name == "mahi" and password == "mahi@123":
-#   print("iam logged in")
-# else:
-#   print("invalid user name")
+name = "mahi"
+password = "mahi@123"
+if name == "mahi" and password == "mahi@123":
+  print("iam logged in")
+else:
+  print("invalid user name")
 
 
 # crtmatch1 = "True"
@@ -19,12 +19,12 @@
 # else:
 #   print("not supported")
 
-marks = 35
+marks = 49
 if marks <= 35:
   print("fail")
 elif marks >= 35 and marks <= 40:
   print("c grade")
-elif marrks >= 40 and marks <=50:
+elif marks >= 40 and marks <=50:
   print("d grade")
 elif marks >=50 and marks <=60:
   print("b grade")
