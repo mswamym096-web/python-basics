@@ -12,4 +12,4 @@ print(url)
 
 fruits = ['apple','water','juice','banana',]
 fruits,*liquid,fruitlast = fruits
-print(fruits,liquid,fruitlast)
+print(fruits,liquid,fruitlast) 
