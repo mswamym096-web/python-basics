@@ -15,3 +15,4 @@ print(list(set(fruits)))
 
 unique_fruits = list(set(fruits)) # coverting list to set to list
 print(unique_fruits)
+

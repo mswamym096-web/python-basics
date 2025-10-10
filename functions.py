@@ -1,4 +1,4 @@
-def logmessage():
+def logmessage(): # hardcode function
     fruits = ['apple','mano']
     print(fruits)
 
@@ -34,5 +34,10 @@ def div():
     print(10/20)
 div()
 
+def add(x,y): # multiple parametars
+    print(x+y)
+
+add(1,10)
+add(2,20)
 
 
