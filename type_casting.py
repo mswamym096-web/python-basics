@@ -17,3 +17,8 @@ print(['a','b']) # tuple to list
 print({'a','b'}) # tuple to set
 
 print(['a','b'])
+
+my_tuple = (10,20,30,45,)
+my_list =list(my_tuple)
+print(my_list)
+print(tuple(my_list))
