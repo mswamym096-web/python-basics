@@ -190,10 +190,10 @@ def add(a,b):
 def sub(a,b):
     print("sub of two  numbers:")
     print(a-b)
-def sub(a,b):
+def multiple(a,b):
     print("mul of two  numbers:")
     print(a*b)
-def sub(a,b):
+def div(a,b):
     print("div of two  numbers:")
     print(a/b)
 
@@ -232,9 +232,46 @@ calculate1()
 toatl = 10
 def abcd():
     global toatl
-    toatl = toatl+30
+    toatl = toatl+30,
     print(toatl)
 
 abcd()
+ 
+ 
+ 
+even_values = []
+odd_values = []
 
-    
+nums = (1,2,3,4,5,6,7,8,9,10,12,14,15)
+for n in nums:
+    if n%2 == 0:
+        print(n, "even number")
+        even_values.append(n)
+    else:
+        print(n, "odd number")
+        odd_values.append(n)
+print("odd numbers:",odd_values)
+print("even numbers:",even_values)
+
+num = 10
+if num % 2 == 0:
+    print("even")
+else:
+    print("odd")
+
+even_values = []
+odd_values = []
+
+nums = (1,2,3,4,5,6,7,8,9,10,12,14,15)
+for n in nums:
+    if n%2 == 0:
+        print(n, "even number")
+        even_values.append(n)
+    else:
+        print(n, "odd number")
+        odd_values.append(n)
+print("odd numbers:",odd_values)
+print("even numbers:",even_values)
+ 
+
+
