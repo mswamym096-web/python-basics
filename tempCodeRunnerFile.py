@@ -1,1 +1,1 @@
-squear
+print(set1)
