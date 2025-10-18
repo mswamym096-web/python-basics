@@ -2,7 +2,7 @@ def print_nums(n):
     for item in range(1,n+1):
         print(item) 
 
-print_nums(20)
+print_nums(100)
 
 # recurssion method
 
@@ -19,6 +19,8 @@ def hello(name):
     print("hello",name)
 hello1 = hello
 hello1("mahi")
+
+
 def add(a,b):
     print("a and b = ",a+b)
     print("addtion of two numbers:")

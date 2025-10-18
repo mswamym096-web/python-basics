@@ -131,13 +131,89 @@ dict= {
 
 
 
-set1 = {1,2,3}
-set2 = {2,3,4}
-print(set1.union(set2))
-print(set1)
-print(set2)
+# set1 = {1,2,3}
+# set2 = {2,3,4}
+# print(set1.union(set2))
+# print(set1)
+# print(set2)
 
 
-set3 = {1,2,3}
-set4 = {3,4,5}
-print(set3.intersection(set4  ))
+# set3 = {1,2,3}
+# set4 = {3,4,5}
+# print(set3.intersection(set4))
+
+
+# count = 1
+# while count <=5:
+#      print("hello")
+#      count+=1
+   
+
+# i = 1
+# while i<=5:
+#      print(apnacollege)
+#      i+=1
+
+# nums = 1
+# while nums <= 100:
+#      print(nums)
+#      nums+=1
+
+# nums = 100
+# while nums >= 1:
+#      print(nums)
+#      nums -= 1
+
+# i = 1
+# while i <= 10:
+#      print(19*i)
+#      i += 1
+
+# nums = [1,4,9,16,25,36,49,64,81,100]
+# idx = 0
+# while idx < len(nums):
+#      print(nums[idx])
+#      idx += 1
+
+nums = (1,4,9,16,25,36,49,64,81,100)
+x = 36
+i = 0 
+while i < len(nums):
+     if (nums[i] == x):
+          print("found at idex",i)
+          break
+     else:
+          print("FINDING")
+     i += 1
+print("end of loop")
+
+
+
+
+# nums = 1
+# while nums <= 5:
+#      if (nums == 3):
+#         nums+=1
+#         continue
+#      print(nums)
+#      nums+=1
+
+
+#odd numbers
+nums = 1
+while nums <= 10:
+     if (nums % 2 == 0):
+        nums += 1
+        continue
+     print(nums)
+     nums+=1
+
+
+# even numbers
+num = 1
+while num <= 10:
+     if (num % 2 != 0):
+        num += 1
+        continue
+     print(num)
+     num+=1
