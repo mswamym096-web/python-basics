@@ -6,14 +6,14 @@ print_nums(100)
 
 # recurssion method
 
-start = 1
+start = 2
 def print_nums1(num):
     global start
     print(start)
     start +=1
     if start<=num:
       print(num)
-print_nums1(10)
+print_nums1(9)
 
 def hello(name):
     print("hello",name)

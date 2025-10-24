@@ -217,3 +217,49 @@ while num <= 10:
         continue
      print(num)
      num+=1
+
+
+def cal_sum(a,b):
+    sum= a + b
+    print(a + b)
+    return sum
+cal_sum(5,10)
+cal_sum(6,1025)
+cal_sum(5525,10)
+
+
+def calc_sum(a,b):
+     return a + b
+
+sum = calc_sum(200000,5300)
+print(sum)
+
+
+def cal_avg(a, b, c):
+    sum = a+b+c
+    avg = sum/3
+    print(avg)
+    return avg
+cal_avg(92,93,95)
+ 
+
+heroes = ["darshan","sudeep","shivaraj","punith","druva"]   
+
+def print_len(list):
+     print(len(list))
+
+def print_list(list):
+     for item in list:
+          print(item, end=" ")
+
+
+# print_list(heroes)
+
+num = int(input("Enter a number: "))
+fact = 1
+
+for i in range(1, num + 1):
+    fact *= i
+
+print("Factorial of", num, "is", fact)
+    
