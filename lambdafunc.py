@@ -13,12 +13,12 @@ print(mul(10))
 print(nameupper('abcdef'))
 
 
-# zif is the function witch combines two or more iterators
+# zip is the function witch combines two or more iterators
 name = ['a','b','c','d']
 marks = [10,20,30]
 print(list(zip(name,marks)))
 for name,marks in zip(name,marks):
-    print(name,marks)
+     print(name,marks)
 
 evenlist = []
 for i in [1,2,3,4,5,6,7]:
@@ -32,5 +32,21 @@ print(evenlist)
 
 
 l1 = [1,2,3,4,5,6]
-filterdlist = [i for i in l1 if i%2==0]
+filterdlist = [i*20 for i in l1 if i%2==0]
 print(filterdlist)
+
+
+
+l1 = ["apple","banana","mango"]
+filterdlist1 = l1
+print(filterdlist1)
+print(len(filterdlist1))
+
+
+
+name1 = ['a','b','c','d']
+marks1 = [10,20,30]
+age1 = [25,26,28]
+print(list(zip(name1,marks1,age1)))
+for name1,marks1,age1 in zip(name1,marks1,age1):
+    print("my name is",name1,"marks is",marks1,"age is",age1)
