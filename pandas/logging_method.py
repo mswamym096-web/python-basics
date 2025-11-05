@@ -1,6 +1,6 @@
 import pandas as pd
-
-
+import logging
+logging.basicConfig(level=logging.INFO)
 data = {
     "country": ['India','india','africa','england','Austrelia','africa'],
     "name":['a','a1','b','d','e','f'],
@@ -8,21 +8,32 @@ data = {
      
 }
 
-def clean_data(data):
+LOGOFF =False
+def loggingdata(df,msg,showedf=True):
+    if LOGOFF:
+        return df
+    logging.info(msg)
+    if showedf:
+         logging.info(df)
+      
+    return df
+
+
+def get_transformed_df(data):
 
     df = (
         pd.DataFrame(data)
+        .pipe(loggingdata,"creating dataframe",False)
         .query("age.notna()")
+        .pipe(loggingdata,"filtering not niulls",False)
         .assign(age=lambda df: df["age"].astype("int"))
         .assign(country=lambda df: df['country'].str.upper())
         .assign(avarege=lambda df: df['age'].mean().astype("int"))
         .assign(totalage=lambda df: df.groupby("country")["age"].transform("sum").astype("int"))
         .sort_values(by=["country"])
         .rename(columns={"country":"c"})
+        .pipe(loggingdata,"final output")
         
         )
     return df
-print(clean_data(data))
-
-
-
+print(get_transformed_df(data))
