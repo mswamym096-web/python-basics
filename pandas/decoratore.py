@@ -1,3 +1,11 @@
+# def validate(func):
+#     def wrapper(a,b,*args, **kwargs):
+#         if isinstance(a,(int,float)) and isinstance(b,(int,float)):
+#             result= func(a,b,*args,**kwargs)
+#             return result
+#         print(f"{a} and {b} value must be integer")
+#     return wrapper
+
 def validate1(func):
     def wrapper(a,b,*args, **kwargs):
         def validateInput(val):
@@ -20,5 +28,9 @@ def add(a,b,):
 # def sub(a,b,):
 #     return a-b
 
-print(add(10,10))
+print(add(10,10.10))
 print(add(10,"10"))
+
+# print(sub(10,10))
+# print(sub(10,"10"))
+        
