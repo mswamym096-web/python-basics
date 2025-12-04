@@ -8,14 +8,14 @@ user_data = pd.DataFrame({
 
  
 product_data = pd.DataFrame({
-    'username': ['alice', 'bob', 'charlie', 'diana'],
+    'username': ['alice', 'prakash', 'charlie', 'diana'],
     'product_name': ['Laptop', 'Mouse', 'Keyboard', 'Monitor',],
    
 })
 
 usdf = pd.DataFrame(user_data)
 productdf = pd.DataFrame(product_data)
-mergedf = pd.merge(usdf,productdf,on="username",how="outer")
+mergedf = pd.merge(usdf,productdf,on="username",how="left")
 print(usdf)
 print("\n",productdf)
 print("\n",mergedf)

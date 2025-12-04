@@ -9,7 +9,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
-second = df['age'].nlargest(2)
+second = df['age'].nlargest(3)
 print(second.min())
 
 second1 =df['age'].nsmallest(1)

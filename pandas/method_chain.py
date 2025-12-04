@@ -23,6 +23,8 @@ def clean_data(data):
         )
     return df
 print(clean_data(data))
-
+cleaned_df5 = clean_data(data)
+cleaned_df5.to_csv("cleaned_data.csv", index=False)
+ 
 
 
