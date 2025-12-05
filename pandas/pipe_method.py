@@ -20,7 +20,7 @@ def get_transformed_df(data):
         pd.DataFrame(data)
         .pipe(loggingdata,"creating dataframe",False)
         .query("age.notna()")
-        .pipe(loggingdata,"filtering not niulls",False)
+        .pipe(loggingdata,"filtering not nulls",False)
         .assign(age=lambda df: df["age"].astype("int"))
         .assign(country=lambda df: df['country'].str.upper())
         .assign(avarege=lambda df: df['age'].mean().astype("int"))
@@ -28,7 +28,7 @@ def get_transformed_df(data):
         .sort_values(by=["country"])
         .rename(columns={"country":"c"})
         .pipe(loggingdata,"final output")
-        
+          
         )
     return df
 print(get_transformed_df(data))

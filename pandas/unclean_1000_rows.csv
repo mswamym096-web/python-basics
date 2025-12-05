@@ -1,0 +1,1001 @@
+Name,Age,Salary,Department,Join_Date
+John,27,58889,Sales ,2021-13-18
+Maya,,44093,Sales,
+Sara123,,70k,Marketing,
+Ahmed123,,70k,HR ,2021-13-20
+Rakesh,48,70k,IT,2021-11-4
+Sara,NaN, 50000 ,Marketing ,
+Kevin  ,NaN, 50000 ,Sales,
+Rakesh  ,,,Marketing,
+Rakesh  ,twenty,,Sales,2022-2-28
+Kevin,44,70k,Sales,6/19/2014
+Ahmed ,22,,Marketing ,2021-8-13
+John ,NaN,unknown,IT,2020-8-10
+Ahmed ,42,,Marketing,8/25/2013
+Emily123,51,70k,Sales,12/22/2011
+Ahmed123,NaN,unknown,HR,5/1/2024
+Sara  ,,unknown,Marketing,9/11/2013
+John  ,,70k,HR,2022-3-17
+David,, 50000 ,HR,6/16/2013
+Rakesh123,, 50000 ,Finance,
+Rakesh123,30,,IT,
+Rakesh  ,NaN,70k,IT,
+Meena  ,NaN,70k,Finance ,3/26/2022
+Emily  ,,unknown,HR,
+John ,51,unknown,HR,2021-13-10
+Priya123,, 50000 ,Sales,
+Sara ,NaN,unknown,Marketing,5/5/2016
+Priya ,,,IT,2020-02-30
+John ,twenty,,HR ,1/21/2010
+Maya123,,unknown,IT,
+Sara  ,twenty,58890,HR,2021-6-3
+Maya123,46,,Sales,2020-6-18
+Maya,twenty,,Sales,
+Emily123,49, 50000 ,Marketing ,2020-02-30
+Sara123,,,Sales ,2023-7-3
+Kevin ,twenty, 50000 ,Sales,11/28/2018
+Ahmed  ,24,unknown,HR ,
+Meena123,,,IT,
+Rakesh,NaN, 50000 ,IT,2021-13-23
+Maya,NaN,unknown,HR,2020-02-30
+John123,49,66709,HR ,
+Rakesh123,NaN, 50000 ,Sales,2021-13-1
+David  ,NaN,unknown,Sales,2020-02-30
+Kevin  ,,70k,HR,2021-13-4
+Sara,,46439,HR ,2020-02-30
+David  ,,,Sales,2020-02-30
+Priya ,NaN,,Finance,2020-02-30
+Rakesh  ,35, 50000 ,Finance,2021-13-25
+Ahmed  ,,unknown,Sales,
+Ahmed ,,,Finance,
+Ahmed,NaN,70k,HR,
+Meena,28, 50000 ,Sales,4/23/2013
+David,24,unknown,Marketing ,
+Maya,NaN,,HR,2023-10-14
+Sara  ,twenty,70k,Finance,4/16/2023
+Maya ,50,unknown,Sales,12/11/2021
+Kevin,twenty, 50000 ,Finance ,2021-13-16
+Sara ,44,,Marketing ,2020-02-30
+Ahmed123,,70383,Sales,10/4/2016
+Sara ,45,,Sales,2024-2-27
+Meena  ,twenty,,Marketing ,2021-9-15
+Maya,twenty,40204,Sales,
+Kevin,twenty,67730,Sales,
+David  ,, 50000 ,Marketing ,2024-3-22
+John ,,70k,HR,5/25/2019
+Sara,,,Finance,2020-02-30
+Rakesh ,NaN,,HR ,
+John ,NaN, 50000 ,IT,12/26/2011
+Meena123,twenty,,IT ,6/26/2013
+Meena123,,unknown,Marketing ,2021-13-2
+Sara123,NaN, 50000 ,Finance ,
+Emily  ,, 50000 ,Marketing ,2020-02-30
+David ,23, 50000 ,HR ,2024-1-22
+Rakesh,,66248,Finance ,2021-13-25
+Kevin,50,,HR,
+Emily123,50, 50000 ,Sales,
+Meena,,45626,IT,
+Kevin,twenty,70k,Finance ,
+Rakesh,, 50000 ,Finance,
+Meena,NaN,70k,Finance ,2022-7-16
+David,NaN, 50000 ,Sales ,2020-02-30
+Ahmed ,,,IT ,2023-3-4
+Emily,NaN, 50000 ,IT,2020-10-21
+Emily,,70k,Finance,
+Priya  ,twenty, 50000 ,Marketing ,12/16/2015
+Emily  ,24,,Sales,
+Priya  ,30,,Finance,
+Kevin ,,59744,IT ,2021-13-26
+Maya  ,NaN,unknown,IT,2020-02-30
+Ahmed123,NaN, 50000 ,Finance ,2021-13-26
+Maya ,NaN, 50000 ,IT,2021-13-2
+David,49,75175,Sales,
+Sara ,, 50000 ,Sales,2020-02-30
+Kevin123,twenty,,Finance ,
+Sara ,28,,HR,12/11/2022
+Kevin123,30,32281,HR,2020-02-30
+Sara,twenty,75799,Sales,
+Kevin,, 50000 ,HR,2021-13-13
+Ahmed123,twenty,45544,HR,
+Ahmed,twenty,70k,IT,
+Priya,,unknown,HR,2022-9-28
+Priya  ,NaN,70k,HR,5/5/2023
+Meena  ,,80878,HR,
+Emily,NaN,,IT,2021-13-13
+Sara ,,85950,Sales,
+Maya ,,70k,Finance,2023-11-28
+David ,NaN,71263,Finance,2020-02-30
+Maya123,twenty,,Sales,
+Sara ,,52547,HR ,2020-02-30
+Sara,,,IT,2021-13-22
+Maya123,,,IT ,2022-8-25
+Maya,30,unknown,Marketing ,2021-4-18
+John123,,,HR ,9/18/2018
+David,,70k,IT,
+Rakesh123,,70k,HR ,
+Sara ,NaN,unknown,IT ,2020-02-30
+Meena,,70k,IT,8/3/2018
+Rakesh  ,,unknown,Finance,10/19/2010
+Priya,,unknown,HR ,
+Rakesh123,,,Marketing ,2/22/2020
+Meena,twenty,43926,Marketing ,
+John,44,59969,Marketing,
+Priya ,,70121,Marketing,2021-13-23
+Sara123,twenty,,Finance ,
+Meena ,,70k,HR,2/24/2010
+Ahmed,54,,Marketing,2021-13-27
+Meena  ,,,Finance ,4/27/2021
+Meena  ,twenty,,Sales ,
+Ahmed ,43,,Finance,2020-5-9
+Kevin123,NaN, 50000 ,IT ,2021-13-11
+Rakesh  ,,70k,Marketing,
+David ,42,70k,IT,8/26/2018
+Ahmed123,NaN,70k,Sales ,
+Rakesh,30,38106,Sales,4/24/2010
+Sara,46,70k,Marketing,12/8/2024
+Rakesh123,NaN,54289,IT,2021-13-28
+Emily ,,67033,IT,2020-9-18
+Ahmed,twenty, 50000 ,Finance ,2020-02-30
+David ,,,Sales ,2020-8-16
+Sara ,,39040,Marketing,2021-5-16
+Kevin123,NaN,58449,Finance,9/5/2023
+David,26,33994,IT,2020-02-30
+Sara123,twenty, 50000 ,Sales,
+Rakesh,,70k,Finance ,
+Sara ,,unknown,Sales,
+Rakesh ,,unknown,IT ,
+Meena,,,Marketing,2024-4-21
+John ,57, 50000 ,HR ,
+Ahmed ,,70k,Finance ,
+Emily123,,,IT ,2023-3-18
+Maya123,twenty,unknown,Marketing ,2021-13-16
+Rakesh,54,,Marketing,2021-13-10
+Kevin  ,twenty,,Finance,2021-6-25
+Emily,twenty,,IT,2021-13-2
+David,,,HR,12/28/2010
+Meena,,34937,Finance,
+Emily ,, 50000 ,Sales ,2020-02-30
+Meena  ,NaN, 50000 ,IT,
+Sara123,twenty,53679,IT,3/19/2015
+Sara123,NaN,,Marketing ,2020-4-16
+John123,, 50000 ,Finance,2021-13-25
+Sara,, 50000 ,Sales,9/19/2022
+Ahmed,33,unknown,HR,2020-2-26
+Maya ,47,,Marketing ,2024-8-12
+Meena  ,twenty, 50000 ,Finance,2020-3-8
+John,38, 50000 ,Finance ,2024-3-24
+John ,,,Marketing ,2021-1-4
+Ahmed,NaN,69209,IT ,2021-13-8
+Emily ,,unknown,Finance,9/23/2015
+John,,34681,Sales,2024-10-4
+Sara123,, 50000 ,HR,2021-3-11
+Maya123,,,HR,2020-02-30
+Kevin ,20,70k,Marketing,
+Meena,55,unknown,Marketing,
+David123,twenty,,HR ,2020-02-30
+Kevin ,27,unknown,IT,2020-02-30
+Rakesh,44,48200,Sales,
+Meena,NaN,53942,Finance,2021-13-15
+John123,, 50000 ,Marketing,2021-13-2
+Rakesh123,28,unknown,Finance ,2024-11-7
+David123,NaN,,IT,
+Meena,, 50000 ,Finance ,
+Rakesh123,,,Marketing,2021-13-25
+Ahmed123,NaN,,Sales,10/19/2018
+David,twenty,70k,Sales,2024-10-28
+Ahmed,,47438,HR,6/23/2019
+Rakesh,twenty,41543,IT,5/2/2012
+David ,twenty, 50000 ,IT,3/5/2022
+Priya,twenty,70k,IT,
+Emily  ,,,Sales ,2024-3-5
+Priya ,twenty,,Marketing,3/12/2016
+David,NaN,unknown,HR ,2020-02-30
+Ahmed ,,,IT,2021-13-21
+Meena,22,,Finance ,2021-13-7
+Priya  ,twenty,70k,Marketing ,2020-02-30
+Meena,NaN, 50000 ,Sales,2023-8-1
+Kevin ,,75356,Sales,
+Kevin123,twenty, 50000 ,Finance,
+Rakesh  ,twenty,unknown,HR ,9/15/2014
+Rakesh  ,49,82261,Marketing ,
+Kevin,twenty,58306,Finance,
+Priya123,twenty, 50000 ,Finance ,2021-13-23
+Rakesh,, 50000 ,Marketing,
+Sara  ,,70k,Finance,2021-13-17
+John ,twenty, 50000 ,HR,
+Sara123,NaN,70k,Finance,2021-13-7
+Rakesh,NaN, 50000 ,Marketing,2021-13-1
+Ahmed,,,Marketing,2021-13-14
+Rakesh,,,Marketing,2020-02-30
+Maya,twenty,,Marketing,
+Sara  ,33,70k,IT ,2020-5-8
+Ahmed,,,IT,12/6/2017
+Sara,,,Marketing ,2020-02-30
+Meena,,unknown,Marketing,
+Ahmed,, 50000 ,Sales,2021-13-18
+Priya,35,,HR,
+Meena,,89794,Sales ,5/8/2022
+David ,NaN,,Sales,2024-11-7
+Sara123,,,Finance,2024-10-18
+David ,, 50000 ,Marketing,
+Ahmed  ,,70k,IT ,2020-02-30
+Sara,32,unknown,Sales,
+Sara,NaN,71536,IT,
+Priya ,,unknown,Finance,
+Priya  ,,,HR,
+Kevin,NaN,52417,Finance ,2020-02-30
+David,46,70k,HR ,
+Emily,,62122,HR ,
+David  ,twenty,48579,Sales,10/16/2018
+Rakesh ,,70k,Finance,2021-13-24
+Rakesh ,,49919,HR,
+Sara,52,,IT,
+Ahmed123,,unknown,Sales,1/8/2022
+Kevin123,,,HR,2020-02-30
+Rakesh,twenty, 50000 ,Marketing,
+John,50, 50000 ,HR ,
+David123,60, 50000 ,Finance,
+Maya123,51,,IT,
+Meena123,,,IT,8/7/2016
+Rakesh,twenty,70k,Marketing,
+Sara ,,unknown,HR,
+David,,50090,IT,2023-2-11
+John,57, 50000 ,HR ,2021-11-24
+Priya123,,unknown,Marketing,12/14/2022
+Kevin,twenty,70k,Sales,2024-10-24
+John ,twenty,,Finance,
+David,45, 50000 ,Marketing,2020-02-30
+Sara ,40,unknown,Finance,2021-6-12
+Ahmed ,twenty,,Sales ,
+Rakesh,twenty,,Finance,2021-13-1
+Kevin,,unknown,HR,9/7/2021
+Rakesh,,,Sales ,7/20/2018
+Ahmed,28,45886,Sales,
+Priya,,70k,Finance,
+John123,23, 50000 ,Sales,2022-11-21
+Emily ,,unknown,IT,4/24/2014
+Emily ,,,Marketing ,3/5/2021
+Rakesh,,87472,IT,
+John  ,twenty,82280,Finance,
+John,NaN,,Finance ,
+Emily  ,NaN,70k,IT,2021-13-17
+Emily  ,, 50000 ,Finance,2021-13-5
+Ahmed  ,, 50000 ,Sales,2020-02-30
+Sara ,,,Finance,2020-02-30
+Ahmed,,,HR ,2021-13-15
+David,twenty,70k,Finance,7/21/2012
+Emily  ,, 50000 ,Finance ,7/19/2019
+John,twenty,unknown,HR,2020-02-30
+Priya ,48,33056,HR ,2021-13-25
+John  ,51, 50000 ,HR ,
+Kevin123,NaN,unknown,IT ,
+Kevin123,42,70k,IT,2020-02-30
+Kevin,40,,Marketing,2022-11-14
+Sara  ,NaN,43072,Finance ,2021-1-15
+Rakesh123,28,,HR,2021-5-8
+Priya,twenty, 50000 ,HR ,
+Maya,,,Finance,
+Meena,,unknown,HR ,2021-13-15
+Emily,NaN,unknown,Sales,
+Emily  ,, 50000 ,Sales ,
+David,,70k,Sales ,2021-13-3
+Rakesh,NaN,,Marketing,2023-7-1
+Maya ,twenty,,Finance,2020-02-30
+Priya123,,70k,Marketing ,12/2/2020
+Maya  ,45, 50000 ,IT,2024-4-10
+Sara ,53,,HR ,2021-13-19
+Emily123,38,unknown,IT,
+Meena ,,41441,Finance ,8/8/2021
+Emily123,twenty,45351,HR,4/22/2012
+David123,NaN,,Finance,
+Sara123,twenty,70k,HR ,5/22/2014
+Ahmed  ,twenty,,Marketing,2020-02-30
+Ahmed,53,70k,HR ,2021-13-2
+Priya123,,,HR,2020-02-30
+Rakesh  ,twenty,,IT,
+John123,NaN,70k,Sales,2024-12-2
+Rakesh123,twenty,79198,Finance,
+John ,NaN,,Finance,
+John,NaN, 50000 ,Sales ,2021-1-23
+Kevin,NaN,unknown,Finance,
+David,29,,IT,2023-12-15
+John,40,70k,HR ,
+Maya,55,,Marketing,
+Ahmed123,NaN,unknown,Finance ,
+Maya  ,,77490,IT,2020-8-16
+Sara,,74716,IT ,1/27/2011
+Ahmed ,NaN, 50000 ,Finance ,5/7/2018
+Meena123,,unknown,Marketing,2020-2-2
+Maya ,,unknown,IT ,2022-6-22
+Ahmed,twenty, 50000 ,HR ,2020-02-30
+John ,twenty,86848,Sales ,2023-6-15
+Ahmed123,,unknown,Sales ,
+John ,twenty,70k,IT,
+John  ,NaN,,Marketing,2020-02-30
+David ,twenty,88839,Sales,2020-02-30
+Meena  ,25,70k,Finance ,
+John ,NaN, 50000 ,IT,2020-02-30
+Ahmed  ,, 50000 ,Finance ,2021-13-7
+Ahmed,twenty,,IT ,
+John,twenty,33172,Sales,2020-02-30
+John123,,69854,Sales,2021-13-17
+David  ,56,,HR,9/22/2015
+Priya123,, 50000 ,IT,
+Priya ,,56963,Marketing,
+Rakesh123,,unknown,Finance,5/15/2023
+Ahmed,twenty,,IT ,
+Kevin,46, 50000 ,HR,2021-13-10
+Maya ,,,IT,
+Meena,,,HR ,
+Rakesh,,,Marketing,2020-02-30
+David  ,NaN,70k,Marketing,2020-02-30
+Sara,NaN,,HR,2021-13-26
+Meena,twenty,unknown,HR,2021-13-18
+David,,,Marketing ,2024-10-28
+Sara,45,86822,HR,
+David,,unknown,Marketing,
+Maya  ,twenty,87527,Finance,
+Maya  ,,70k,HR ,2023-12-16
+Rakesh,,70k,Marketing ,6/13/2019
+Sara,53,,Finance,2021-13-17
+Sara,,,Sales,
+Emily,twenty,unknown,Sales,2021-13-21
+Rakesh,,,Sales,2021-4-16
+Priya123,, 50000 ,Finance,2021-13-2
+Meena,twenty,,Finance,6/17/2012
+David,twenty,,Marketing ,
+David123,twenty,,IT ,
+Maya ,,,Sales ,
+John123,,70k,Sales ,2020-02-30
+Kevin ,NaN,unknown,HR ,2022-8-14
+David123,twenty,unknown,HR,2020-02-30
+David ,NaN,52358,Finance ,2021-13-8
+David,,89937,IT,3/28/2018
+Priya  ,,,Marketing,
+Rakesh ,39,70k,HR ,2020-02-30
+Priya,twenty, 50000 ,IT,2021-13-10
+David ,58,,Sales ,4/20/2018
+Rakesh123,NaN,,Marketing ,
+Sara123,25,45541,Sales ,2022-9-20
+Sara ,NaN,unknown,HR ,
+John  ,NaN,62783,HR ,2/19/2017
+David ,,unknown,Marketing,2020-02-30
+Priya123,, 50000 ,HR,
+Rakesh,twenty,,IT,2020-02-30
+Kevin  ,NaN, 50000 ,Marketing ,2020-02-30
+Meena  ,twenty,,Marketing,2024-6-17
+Kevin,NaN,unknown,IT,
+Kevin,twenty,,HR,7/15/2014
+John  ,twenty, 50000 ,Marketing,2021-13-27
+Kevin ,,89507,Sales ,4/5/2021
+David,,67896,IT,2023-2-27
+Meena,twenty,70k,IT ,2020-02-30
+David ,NaN,,Marketing,2024-1-2
+Maya,twenty,,HR,
+David  ,27,,Marketing,
+Meena,,,Finance,2021-13-17
+Rakesh ,33,70k,HR,2020-02-30
+John ,NaN,,HR,2020-02-30
+John,,,Marketing,2020-12-7
+John ,39,,Finance ,
+Kevin ,twenty,40411,Finance ,6/6/2023
+John ,twenty, 50000 ,Sales,2021-13-1
+Ahmed,,unknown,Sales,
+Maya,twenty, 50000 ,Sales ,
+Sara,NaN,70k,Sales ,
+Emily  ,twenty,70k,Finance,2020-02-30
+David,52,,HR,
+Priya,60,51151,Sales ,10/25/2010
+Rakesh ,,unknown,Marketing ,2020-02-30
+Rakesh,NaN,,HR,
+Ahmed ,,,HR,
+David  ,twenty,,IT,2020-02-30
+Emily,NaN,,HR ,11/4/2015
+Sara,NaN,69290,HR ,
+David123,twenty, 50000 ,IT ,2021-13-5
+Priya123,twenty, 50000 ,Sales,
+David  ,,,Finance ,1/6/2011
+Maya123,,,Marketing,
+Priya,,unknown,Marketing,
+Emily,NaN,,Marketing,2021-13-8
+Kevin,,,Marketing,
+Maya,20,73831,Marketing,2022-5-28
+Rakesh ,twenty,,HR,
+Priya,42,,Marketing,
+Priya,twenty,42174,Finance,2020-02-30
+Meena123,, 50000 ,Sales,2021-6-3
+Kevin,44,unknown,Marketing ,2022-7-14
+David,,70k,Sales,
+David ,,unknown,Marketing,2022-11-3
+Maya,,,Marketing,
+Rakesh,NaN,,HR,2021-13-19
+John ,,70k,Marketing,2021-13-3
+Meena  ,twenty,,Finance,
+David  ,NaN,70k,Marketing,2021-3-17
+Rakesh  ,,,HR,2021-13-23
+David ,NaN,,Finance,2022-1-14
+Kevin,NaN,,HR,2021-13-25
+Ahmed ,NaN,81669,HR,2021-13-21
+David123,,66600,Finance,2020-9-4
+John ,twenty,,Marketing ,2021-13-24
+Rakesh ,, 50000 ,HR ,2023-8-13
+Meena,NaN,,Finance,
+Sara,NaN,,Finance,2020-02-30
+Ahmed ,,68667,Sales ,
+Ahmed123,twenty, 50000 ,Marketing,2022-2-11
+Emily123,,61487,IT ,2021-13-24
+David,60,,HR ,2021-13-16
+Rakesh,,70k,Marketing ,2020-02-30
+Kevin,,87519,Sales ,4/19/2015
+Emily123,twenty,70k,Sales,4/24/2011
+David123,29,52634,IT ,2020-02-30
+Kevin,,unknown,Finance,2023-8-23
+Kevin123,,,HR ,3/19/2015
+Meena,NaN,70k,Marketing,2020-02-30
+Priya  ,twenty,,Marketing ,2020-02-30
+Rakesh  ,twenty,40655,Sales,2023-12-7
+Ahmed ,,unknown,Finance,
+Emily123,,unknown,Sales ,2022-11-9
+Maya ,NaN,,Marketing,
+David,NaN,unknown,HR,
+John  ,,42954,HR,2021-13-1
+Maya,,,Marketing,2021-13-16
+Priya ,29,unknown,Finance,
+Priya ,,70k,HR,2021-13-12
+Ahmed,,,HR,2020-10-15
+David ,,87284,Marketing,2023-3-6
+Kevin,twenty,70k,Sales,4/13/2013
+Rakesh,NaN,70k,IT,
+John,NaN, 50000 ,IT,
+Rakesh,51,unknown,HR,2021-13-24
+Priya,,,Sales,10/12/2015
+Rakesh,,70k,Marketing,
+Rakesh123,,,Sales,
+Meena ,,,Sales,2024-10-2
+David ,31, 50000 ,Finance ,2021-13-13
+Sara  ,NaN,77977,Sales ,2022-2-22
+Meena123,,70k,HR ,2020-02-30
+Maya  ,NaN,unknown,Marketing,
+Priya  ,twenty,,Marketing,
+John,,,IT,2021-13-9
+Priya,,45583,Marketing,
+Maya,,,Marketing,
+John,NaN,41961,IT ,
+Rakesh,,,Sales,2024-7-15
+Meena  ,twenty,32192,HR,
+Meena  ,NaN, 50000 ,Marketing,2023-1-14
+Maya ,, 50000 ,IT ,
+Sara ,,45904,Marketing ,8/28/2012
+Ahmed,,,Marketing,2023-9-15
+Emily,44,70k,Marketing ,
+Meena,NaN,70k,IT,
+Priya123,23, 50000 ,IT,
+Ahmed ,,64780,Finance ,
+Priya,NaN,unknown,Marketing,9/3/2019
+Maya ,,unknown,HR,2/7/2023
+Meena,twenty,,HR,2020-02-30
+Maya123,twenty,unknown,Sales ,2020-4-24
+Emily123,, 50000 ,Finance,2021-13-16
+Priya ,, 50000 ,Sales,
+Maya  ,twenty, 50000 ,Marketing,
+Emily  ,NaN,70k,Finance ,2024-9-8
+David ,22,73752,Finance ,2020-02-30
+John,NaN,,HR,2020-2-12
+Meena ,,,HR,2023-7-3
+Maya,NaN,85399,Sales ,10/23/2024
+Kevin,twenty,unknown,HR,3/23/2015
+Maya  ,, 50000 ,Marketing,2021-10-17
+John ,,70499,Marketing,
+David  ,NaN,,Marketing,2020-02-30
+David123,,70k,Finance,8/21/2015
+Emily ,28, 50000 ,Sales ,2020-4-20
+Maya  ,28,,HR,2022-3-1
+Rakesh  ,NaN,unknown,IT,2021-13-25
+Maya  ,twenty,unknown,Finance,
+Ahmed  ,twenty,86329,Sales,2020-02-30
+Ahmed123,NaN,,Marketing,
+John,,unknown,Finance,
+Rakesh,,,IT,
+David ,twenty,,IT,2020-02-30
+David ,,70k,IT ,2021-13-1
+Priya,58,,Marketing ,
+Sara,,58969,Marketing,
+Kevin,twenty,,IT ,7/11/2012
+David  ,twenty,70k,Marketing ,
+Emily ,24,,Marketing ,2021-13-24
+David,, 50000 ,Marketing,
+Maya,,43659,IT,
+Sara,,,HR,2020-02-30
+Meena,NaN,70k,Finance,2020-02-30
+John ,twenty,,Marketing,
+John,twenty,,IT ,2020-02-30
+David,, 50000 ,Finance ,
+Priya,33,70k,Marketing,5/15/2018
+Kevin123,,48271,Marketing ,
+Emily  ,twenty,unknown,IT,2021-13-25
+Sara  ,37,89498,HR,2020-02-30
+Meena,,,HR ,8/5/2011
+Maya  ,,,HR ,
+Sara,,70k,Marketing,2021-13-5
+Meena,36,70k,Marketing ,9/18/2020
+Ahmed,twenty, 50000 ,Sales,2021-13-7
+Meena123,,70k,Marketing ,2020-02-30
+Sara ,42, 50000 ,Finance ,2021-13-27
+Emily,,,Finance ,2022-4-5
+Meena123,, 50000 ,Sales ,2024-12-19
+David123,twenty, 50000 ,Finance ,
+Kevin  ,,,IT,8/17/2022
+Rakesh123,NaN,,Finance ,11/15/2024
+David,,53060,HR ,2021-13-20
+Emily,twenty,unknown,Sales ,10/16/2015
+Ahmed  ,41,,Marketing ,2020-02-30
+Ahmed  ,,,Marketing,10/26/2014
+Kevin,NaN,70k,Sales ,2020-02-30
+Maya,NaN,71101,Sales,4/26/2016
+Emily123,NaN,,Finance ,
+Meena ,60,68463,HR,2020-9-9
+Priya123,twenty,70k,Finance ,2021-13-17
+Kevin,42, 50000 ,HR,
+David ,twenty,,Sales,2020-02-30
+Maya,NaN,,Finance ,2020-02-30
+Rakesh,, 50000 ,Sales ,
+Kevin,NaN,80202,IT ,8/13/2019
+Sara,,,HR,2020-02-30
+Meena,,80115,IT,7/7/2024
+Kevin123,,70k,Finance,
+Meena  ,22,,HR ,
+Priya,34,,Sales ,2020-02-30
+Maya,,88599,Marketing,
+Sara ,34,70k,Finance ,
+Meena123,53,67136,Finance ,
+Priya,33,,HR,10/22/2013
+Meena,,unknown,HR ,2024-1-19
+John,29,82594,HR ,2021-13-4
+John,26, 50000 ,Marketing,2021-13-20
+Meena,NaN, 50000 ,Finance,2021-13-5
+Meena,twenty,61967,Marketing ,
+Ahmed  ,43,,Sales,
+Ahmed123,twenty,,IT ,2024-3-14
+Meena  ,twenty, 50000 ,Sales,2020-02-30
+Sara,,unknown,Finance,2021-13-21
+Kevin  ,, 50000 ,Sales ,2021-9-16
+Sara  ,29,unknown,Marketing,2021-7-14
+Ahmed123,,,HR,
+Ahmed ,,70k,IT,2020-02-30
+John  ,NaN,unknown,Finance ,2020-02-30
+Priya  ,twenty,unknown,Finance,2021-13-8
+Rakesh,,38001,HR ,2/24/2019
+Meena ,NaN,70k,HR ,2023-5-24
+Ahmed  ,NaN,70k,Sales,6/4/2012
+Kevin ,56,70874,IT,2021-13-7
+Kevin ,,,HR ,5/10/2012
+Ahmed,,70k,IT,
+David ,, 50000 ,Sales,7/26/2023
+Kevin,35, 50000 ,Finance,2021-13-11
+John,60,70k,Marketing,
+Sara123,NaN,unknown,IT,
+John,,70k,Marketing ,2021-13-13
+Meena123,49, 50000 ,Marketing ,2021-13-1
+John ,55,,HR ,6/1/2012
+Sara,,,HR,
+Priya  ,57,,Sales,2024-8-9
+John123,NaN,66580,Marketing,
+Sara123,, 50000 ,Sales,
+Meena  ,,,Sales,
+David  ,,unknown,HR,6/28/2024
+Rakesh  ,twenty,49073,Finance ,2021-13-10
+Meena123,,,Sales ,2020-02-30
+Emily ,21,69468,HR,2021-13-2
+Meena,twenty,,IT,
+Priya123,NaN,85846,HR,2020-02-30
+Maya  ,,,IT,8/17/2022
+John,33, 50000 ,Sales,2021-13-8
+Meena,,,HR,9/1/2024
+Emily123,twenty,,Marketing,10/5/2019
+Rakesh,,70k,Sales,2020-02-30
+Priya,31, 50000 ,IT,2021-13-10
+Maya,twenty,,IT ,
+David,,,HR,2021-13-23
+John  ,, 50000 ,HR ,11/26/2021
+David123,48,unknown,Marketing ,
+Rakesh123,NaN, 50000 ,Marketing,2023-9-15
+Rakesh,,70k,HR,2020-02-30
+Maya,,,Finance,2020-02-30
+Priya ,,70k,HR,2020-02-30
+Kevin,51,,Finance,
+Emily ,,40574,Finance ,2021-2-17
+Kevin ,twenty, 50000 ,Marketing,
+Rakesh,,70k,HR,2021-3-7
+Rakesh,,70k,HR,2020-02-30
+Maya,NaN,,HR,10/3/2012
+Emily,NaN,,Sales ,10/16/2011
+Maya  ,,,IT,2020-02-30
+David,59,,IT,2021-13-28
+Emily  ,NaN,,IT,2020-02-30
+Meena123,58,60378,Finance,2021-2-1
+Kevin,,70k,Marketing,2020-02-30
+Rakesh123,21,unknown,Finance,
+Rakesh  ,,,IT,2024-4-27
+Kevin  ,49,unknown,HR ,
+David ,,70k,Finance ,2020-02-30
+Kevin123,,70k,HR,1/10/2012
+Meena,NaN,,Sales ,2021-13-11
+Rakesh  ,53,70k,Finance,
+Maya ,57, 50000 ,Finance,2022-10-2
+Kevin,NaN,,Sales ,2021-13-9
+Meena123,41,70k,Sales,2020-02-30
+John123,40,73498,IT,2021-13-7
+Ahmed  ,,61159,Marketing ,
+John,, 50000 ,Sales ,2021-13-15
+Kevin,,54049,HR ,2021-13-25
+Kevin,twenty,,Finance ,2020-11-14
+John,,78923,Marketing,
+Priya ,,70k,HR,
+Emily123,, 50000 ,HR,2021-13-20
+Rakesh ,,48145,HR,11/2/2024
+Emily ,twenty,45946,Finance,
+Priya ,, 50000 ,HR ,9/9/2013
+Sara,42,78565,Sales ,6/8/2016
+Maya123,, 50000 ,Sales,2021-13-13
+Meena123,twenty,,Sales,
+Priya123,,67420,IT,
+John  ,twenty, 50000 ,Finance ,
+Sara123,46,,Sales,2020-02-30
+Maya,,,IT,
+Meena,twenty,70k,Finance ,2020-02-30
+David,,70k,HR,12/15/2023
+Emily  ,NaN, 50000 ,Sales,2/13/2013
+Sara123,31,30536,Marketing,
+Sara,NaN,68247,Finance,2022-8-22
+Rakesh  ,NaN, 50000 ,Marketing,2021-13-21
+Ahmed ,NaN,,Finance ,
+Kevin  ,NaN,unknown,Marketing,2020-02-30
+Priya ,NaN, 50000 ,IT,
+Emily,twenty,61831,IT ,2021-13-14
+Priya123,twenty,34098,Marketing,
+Emily  ,57,,HR,
+Ahmed123,,,Marketing,2021-13-25
+Kevin ,38,unknown,Marketing ,4/26/2016
+Ahmed  ,,45729,Marketing,
+Rakesh,,70k,HR,11/10/2021
+Meena,, 50000 ,Marketing,
+Emily,NaN, 50000 ,Finance,2021-13-19
+Emily,,46072,Sales,8/9/2023
+Ahmed ,twenty,61387,HR,3/16/2018
+Maya123,NaN,,Marketing ,2022-5-25
+Maya,,,Marketing,
+Sara123,,,HR,
+Emily123,twenty,70k,Marketing,
+Meena,,unknown,HR ,1/17/2022
+Ahmed ,29, 50000 ,HR ,2020-02-30
+Ahmed,28, 50000 ,Finance,2020-02-30
+Ahmed ,twenty, 50000 ,Marketing ,
+Sara123,,,HR,
+Emily,NaN,70k,Marketing,1/12/2022
+Rakesh ,54,54516,Marketing,2021-13-7
+John  ,, 50000 ,Finance,2/16/2023
+Priya123,NaN, 50000 ,IT,2023-1-27
+Kevin,,unknown,IT ,
+Sara123,NaN,70k,Sales,
+Rakesh ,,unknown,Marketing,
+Emily  ,twenty,35258,Finance ,2021-13-15
+Rakesh,, 50000 ,Marketing,2020-02-30
+Kevin  ,NaN, 50000 ,IT,
+Maya  ,53,70k,IT,2021-5-16
+Kevin ,twenty,70k,HR ,
+Priya,NaN,unknown,IT,
+Rakesh  ,NaN,40411,Sales,2020-02-30
+Sara,NaN, 50000 ,Sales,2021-13-11
+Sara  ,,unknown,HR,2024-3-24
+John,NaN,,Marketing,2021-13-5
+Ahmed123,NaN,unknown,Sales ,
+Priya ,58,70k,Marketing,2022-1-5
+Maya,46,,Marketing ,
+Kevin  ,41, 50000 ,Marketing,2020-02-30
+Emily ,,49342,IT,
+Maya,twenty,,Sales,4/18/2021
+Sara,,unknown,Sales ,2022-6-9
+Kevin123,twenty,,IT ,
+Rakesh,36,unknown,HR,
+Maya123,41,,IT,
+John,44,,Finance,2022-12-25
+Meena,,,Finance,
+Priya ,twenty,,IT,
+Rakesh,NaN,70k,HR ,1/2/2016
+Rakesh,twenty,70k,Marketing,2021-13-11
+Rakesh123,45, 50000 ,HR ,2020-02-30
+Rakesh,, 50000 ,Sales,2022-7-9
+Meena ,25, 50000 ,HR,
+Emily,twenty,,Marketing ,2022-12-8
+Kevin  ,,,Finance,
+Rakesh  ,NaN,unknown,Finance ,2020-7-4
+Ahmed  ,31,70k,Marketing,5/16/2012
+Priya  ,twenty,,Sales,
+David123,,,Finance,2022-9-24
+David123,50,70k,Sales ,
+Kevin,NaN, 50000 ,Finance ,
+Priya,,77394,Sales ,
+Meena,27,70k,Marketing,2/26/2024
+David123,60,54307,Finance,
+Maya,,,Marketing ,
+Maya ,twenty,71598,Finance ,
+David  ,40,81330,Marketing,2023-4-28
+Ahmed,44,54938,Marketing,2020-02-30
+Priya ,, 50000 ,Marketing,2021-13-21
+John ,50,unknown,Marketing ,2020-02-30
+Maya,NaN,70k,Finance ,2024-9-16
+Emily123,53,70k,Marketing ,7/18/2023
+Maya,twenty,43317,IT ,2021-3-28
+David,NaN,70k,Finance,2020-02-30
+John,NaN,,Marketing ,
+Rakesh,NaN,,Finance,2023-6-18
+John,,,Finance,
+John,NaN,unknown,IT ,
+Sara123,twenty,70k,Marketing,2020-02-30
+Meena ,,,IT,2022-12-21
+Rakesh123,twenty,,IT,2020-02-30
+Maya,35,70k,Marketing ,
+Rakesh123,,43836,Sales ,2020-02-30
+Rakesh123,NaN,70k,Marketing ,2020-02-30
+Emily,,,Marketing,2020-02-30
+Kevin ,23,unknown,Marketing,2021-13-4
+David,58,unknown,Sales ,
+Priya123,56,,Marketing ,2021-6-17
+Maya ,twenty,,Finance ,
+Priya,,,Sales,
+Priya ,33,,Marketing ,2020-02-30
+Meena,,60604,Marketing,2023-11-11
+Emily ,,70k,HR,2020-12-26
+Rakesh123,NaN,,Finance ,10/3/2023
+Ahmed,twenty,69429,IT ,2021-13-5
+John  ,,70k,IT,
+Ahmed  ,,,Marketing ,
+Sara ,twenty,,IT,
+Meena ,,70k,IT,2021-13-21
+Priya,,35753,Sales,2020-02-30
+Rakesh,,unknown,Sales,9/19/2012
+Meena,twenty,44417,Finance ,11/18/2023
+David,,,Finance,2020-02-30
+Rakesh,NaN, 50000 ,Marketing,
+Rakesh ,NaN,unknown,Marketing,
+Kevin ,, 50000 ,Finance,
+John  ,twenty, 50000 ,Sales ,2/12/2018
+David ,,,Sales,
+Maya,41,84921,Sales,2020-02-30
+David ,,,Finance ,
+Maya ,NaN,70k,HR,6/22/2013
+Priya  ,,70k,IT,
+Meena,twenty,85019,Sales,2020-9-1
+Kevin  ,,59862,Finance,
+Rakesh ,,,IT,4/27/2019
+Sara  ,twenty, 50000 ,Sales ,
+Meena123,twenty,33613,Sales,2021-13-11
+Kevin ,twenty,70k,IT,11/11/2021
+Sara,,unknown,Marketing,2021-13-15
+Priya123,47,62377,Sales ,
+Maya123,,70k,Finance ,2020-2-16
+Sara,twenty,,HR,2021-13-3
+Priya,twenty,70k,IT,11/25/2020
+Priya ,, 50000 ,Sales ,
+Kevin123,55,,Finance,2020-02-30
+Rakesh,twenty,,HR,
+Meena,twenty,70666,IT,2022-10-4
+Ahmed,twenty,82153,IT ,
+David,twenty,68017,Marketing,2020-10-21
+John ,60,70k,Marketing ,
+Sara ,twenty,88835,IT,2022-10-1
+Kevin,,,Sales ,2021-13-16
+Maya  ,,,HR,
+Emily123,55,,Marketing ,2023-2-7
+Sara  ,twenty,unknown,Sales,2020-10-14
+David,twenty,65909,IT ,
+Meena,30, 50000 ,IT ,2023-8-14
+Emily,NaN,unknown,Sales ,2020-10-15
+Rakesh123,twenty,unknown,Sales,1/24/2016
+Ahmed,NaN,unknown,IT,2021-13-28
+Emily  ,twenty,75638,Marketing ,2021-13-5
+Sara ,40,70k,Sales ,
+Meena ,twenty,unknown,Finance ,2024-4-17
+Emily  ,twenty, 50000 ,IT ,2020-02-30
+David,NaN, 50000 ,Sales,2021-13-6
+Emily ,NaN,70k,IT,7/3/2014
+David123,28,36549,IT ,2020-02-30
+Rakesh ,NaN,70k,IT ,2020-02-30
+Sara ,,unknown,Finance,
+Rakesh123,twenty,70k,Sales ,
+Emily123,twenty,unknown,Finance ,
+David,twenty,,Sales,2021-13-24
+Maya,twenty,,Marketing ,2024-7-8
+Maya  ,,unknown,IT ,5/8/2012
+Emily  ,,60265,Marketing,2/27/2020
+Kevin ,twenty,,Finance,
+Sara,,,Sales,2021-13-27
+David123,28,70k,Marketing,2020-02-30
+Meena ,, 50000 ,IT,
+Meena  ,twenty,70k,Marketing,2020-02-30
+Ahmed,NaN,,Finance,2020-02-30
+Emily,, 50000 ,Marketing,
+Rakesh ,twenty, 50000 ,HR ,2020-6-23
+Meena ,40,70k,IT ,12/9/2018
+Rakesh123,27,,IT,
+Maya ,NaN, 50000 ,Finance ,
+David ,,unknown,Marketing ,
+John,,unknown,HR,2024-6-3
+Priya,,,Sales ,2021-13-19
+Priya,49, 50000 ,Finance ,
+Rakesh  ,twenty,unknown,Marketing,2021-6-3
+Rakesh,,70k,HR ,
+Rakesh,,78845,IT,
+Maya123,twenty, 50000 ,HR ,2021-13-21
+Meena,48,32661,HR,2020-02-30
+Maya,twenty,unknown,Marketing,
+Ahmed ,NaN,,IT ,2020-02-30
+Kevin,twenty, 50000 ,IT ,2021-13-28
+David,,unknown,Finance,2020-02-30
+Meena,twenty,59951,Finance,2021-13-12
+John,,unknown,Finance,2021-13-12
+Priya123,56,70k,IT,2021-7-8
+David  ,,41433,Finance,2021-13-17
+Kevin  ,,,IT ,2022-3-26
+David  ,NaN,70k,Sales,2020-02-30
+Emily,49,70k,Finance,
+Kevin  ,twenty,unknown,IT ,2020-02-30
+David  ,twenty, 50000 ,HR,
+Meena  ,, 50000 ,Sales,2020-02-30
+Priya ,,70k,Sales,2020-02-30
+Kevin,,unknown,HR ,
+Ahmed ,NaN,,HR,2020-12-22
+Meena ,,38067,Marketing,2023-8-13
+Rakesh  ,NaN,unknown,Sales ,2021-10-28
+Meena123,,70k,Finance ,2021-13-21
+Maya123,NaN, 50000 ,Sales,2020-02-30
+Sara ,,,HR,2024-10-28
+Sara,NaN, 50000 ,Finance,
+Kevin,38,unknown,IT ,10/14/2018
+John  ,NaN, 50000 ,Finance ,2021-13-20
+David,twenty, 50000 ,HR,
+John ,,70k,Marketing ,2021-13-28
+Ahmed,NaN,,Sales ,
+Meena ,twenty, 50000 ,Sales ,
+Meena,,84986,HR ,2021-13-11
+Priya123,, 50000 ,HR,10/23/2011
+Meena,,70k,Marketing ,2021-13-7
+Kevin  ,,,Finance ,12/2/2021
+Priya,,34758,Finance ,2021-13-9
+Emily ,twenty,36027,Marketing ,
+Sara  ,NaN,80781,Marketing,
+Rakesh,NaN,,Finance,2022-5-1
+Kevin  ,twenty,unknown,HR,3/2/2016
+Priya  ,,,Marketing ,2021-13-23
+Kevin123,,78862,IT,
+David  ,,unknown,Sales,12/19/2024
+John  ,NaN,,IT,3/4/2021
+Sara ,,,Marketing,2021-13-6
+John,, 50000 ,IT ,2020-02-30
+John123,47,unknown,HR ,2020-02-30
+Ahmed,25,,Marketing,
+David  ,40,unknown,Marketing,
+Sara  ,NaN,,Marketing,
+Kevin123,56,unknown,IT ,6/28/2011
+John,35,,Finance ,2022-12-22
+Maya ,NaN,70k,Finance ,
+Ahmed ,55,75832,Finance,2020-02-30
+Rakesh123,32,,HR,
+Rakesh ,42,,IT,2020-3-12
+Maya  ,,unknown,Sales,
+Meena123,22,unknown,Marketing,
+Meena ,,70k,Marketing,2020-02-30
+Rakesh,NaN, 50000 ,Finance,2020-02-30
+Maya,NaN, 50000 ,Marketing,2020-02-30
+John,twenty,,Sales,2021-13-15
+Kevin,55, 50000 ,Sales,2021-13-8
+Emily ,,64327,Sales ,2021-11-22
+Emily  ,twenty,70k,IT,2021-13-18
+Kevin ,NaN,70k,Finance,2/25/2010
+Emily  ,twenty, 50000 ,IT ,2021-13-14
+Meena,NaN,70k,Sales ,
+Ahmed,,,Marketing,
+Rakesh,NaN, 50000 ,Finance ,2020-6-3
+John ,,70k,Marketing ,2023-7-2
+David,,35489,Marketing,2/21/2014
+Kevin ,28, 50000 ,Marketing,2020-4-5
+Sara,42,57768,Marketing,
+Maya123,twenty,30411,Finance,2020-2-3
+Priya,,70k,Finance ,
+Kevin123,,70k,IT,5/4/2015
+Priya  ,40,,Sales,2023-9-27
+Kevin,twenty,,Finance,2020-02-30
+Sara ,,,IT,2021-13-18
+Ahmed,twenty, 50000 ,IT,8/24/2023
+Maya  ,NaN,unknown,Marketing ,2023-2-11
+Ahmed,,66134,Sales,2024-11-17
+Emily,29,70k,Marketing ,6/5/2014
+Priya ,, 50000 ,Finance ,
+Rakesh  ,twenty,unknown,Marketing,
+Sara,,70k,Finance,2021-13-6
+Emily123,,70k,IT,2020-02-30
+Kevin,twenty,,IT ,10/11/2020
+Ahmed ,NaN,,IT ,2020-1-14
+Ahmed  ,28,,IT ,2023-11-15
+Rakesh  ,,unknown,Sales ,
+Ahmed123,28,70k,Finance ,2021-8-12
+John,NaN,70k,IT,
+Maya123,twenty,,Sales ,2021-13-9
+Meena,25,70k,Marketing,2021-2-12
+Meena,,unknown,Sales,2021-13-17
+David123,,,Finance ,
+Maya,NaN,unknown,Finance,
+Sara123,NaN,70k,Sales ,2021-13-8
+Meena  ,NaN, 50000 ,IT,
+Kevin  ,,unknown,IT,2021-7-9
+David,38,,IT ,
+John,NaN,,Marketing,2020-02-30
+Rakesh,NaN,71525,Finance ,
+Kevin,NaN,unknown,Sales,2024-4-9
+John  ,, 50000 ,HR,2020-12-8
+Meena,,unknown,IT,2021-13-15
+Priya,NaN,,Sales,2020-02-30
+Sara,NaN, 50000 ,IT,2023-5-11
+Sara,twenty,,Sales,2020-02-30
+David  ,52,,Sales,
+David ,, 50000 ,IT ,
+Priya ,40,46708,Finance,
+Kevin,,,IT,5/24/2015
+Maya  ,29,50694,IT,3/13/2017
+David123,, 50000 ,HR,2021-13-23
+Ahmed  ,55,70k,IT,2022-6-2
+Kevin,,,HR,2020-02-30
+Ahmed  ,NaN, 50000 ,Marketing,
+Maya  ,,70k,Finance,
+Meena,NaN,42182,HR,2021-13-23
+Rakesh,NaN,unknown,Sales,2020-9-25
+Kevin,NaN,,Sales,
+Emily,NaN,70k,HR ,
+Ahmed,33,70k,IT,2023-5-22
+Sara123,twenty, 50000 ,Marketing,
+John ,NaN, 50000 ,HR,2021-13-9
+Kevin  ,, 50000 ,Marketing,7/15/2023
+Kevin,,70k,Sales,2021-13-13
+Priya ,,70k,Finance,2020-02-30
+Priya ,NaN, 50000 ,Sales ,5/5/2018
+Maya,,,Finance,9/9/2019
+Sara,NaN,unknown,IT,2024-3-23
+David ,NaN,35937,Finance ,6/7/2011
+Kevin,,32867,Sales ,1/8/2016
+John ,NaN,70k,HR ,
+David ,NaN,unknown,HR,2023-4-14
+Meena,,70k,Marketing,
+Ahmed  ,twenty,70k,Marketing ,2020-02-30
+David  ,twenty,unknown,Finance,2023-7-25
+John  ,32,,Finance,2021-13-2
+Maya123,twenty,74485,HR,
+David123,NaN, 50000 ,Marketing,2021-13-6
+David,46, 50000 ,Sales,
+Rakesh  ,NaN,unknown,Marketing ,2023-8-9
+Priya,34,43237,HR,2021-13-12
+John,NaN,70k,IT,3/21/2023
+Priya,,62807,Sales,
+David123,,70k,IT,3/15/2017
+Sara123,, 50000 ,IT,2/3/2016
+Rakesh,,,Marketing ,2021-13-7
+Meena,42,,Sales ,2020-02-30
+Maya  ,twenty,unknown,HR,2021-13-25
+John ,,,Marketing,2020-02-30
+John,47,70k,Sales,10/5/2013
+Sara  ,, 50000 ,Marketing,
+Maya123,33,unknown,HR,1/17/2010
+Meena123,twenty,unknown,Marketing,7/14/2017
+Ahmed,53,70k,Marketing ,
+Kevin,,,Finance,2021-13-2
+Ahmed  ,,unknown,Sales,2024-9-16
+Kevin,38,,HR,2020-02-30
+Meena  ,,,Finance,2022-7-18
+David,,,HR,
+David,51,50120,IT,5/4/2013
+Maya,twenty,,Sales,2020-02-30
+Ahmed ,,,Finance,
+Sara123,42,unknown,Sales ,
+Emily,28,,Finance ,2020-02-30
+Ahmed123,NaN,,HR ,2022-10-20
+Sara123,NaN, 50000 ,Finance,2020-02-30
+Sara  ,30,unknown,Marketing,2020-02-30

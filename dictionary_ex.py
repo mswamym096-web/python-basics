@@ -17,7 +17,7 @@ person = {
 print(person['name'],person['age']) # extract the values
 
 persons = [{ "name":"shiv",
-    "age": 25,
+    "age": 26,
     "company":"xyz",
     "hobbies":['kabbadi', 'swimming','singing'],
     "salary":1000,
@@ -36,4 +36,4 @@ persons = [{ "name":"shiv",
 ]
 
 shivinfo,mahadevinfo= persons
-print(mahadevinfo["hobbies"])
+print(shivinfo["age"],mahadevinfo["hobbies"])

@@ -13,7 +13,7 @@ print(data1)
 data1 = data1.groupby('country').count() # gives you minimum age of by country 
 
 data1 = data1.groupby('country').agg({
-    "age":['mean']
+    "age":['mean','median']
 })
 data1 = data1.astype("int")
 

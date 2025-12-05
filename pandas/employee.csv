@@ -1,0 +1,21 @@
+employee_id,name,age,gender,department,salary,country,join_date
+101,Arjun,25,Male,IT,45000,India,2020-05-21
+102,Mahesh,28,Male,HR,52000,India,2019-11-12
+103,Naveen,32,Male,Finance,61000,USA,2021-04-15
+104,Suresh,29,Male,IT,47000,Germany,2020-09-03
+105,Karthik,35,Male,Sales,55000,France,2018-06-25
+106,Ravi,30,Male,HR,48000,India,2019-07-19
+107,Sunil,41,Male,Marketing,62000,Australia,2022-01-10
+108,Kishore,27,Male,IT,51000,South Africa,2018-03-14
+109,Aditya,33,Male,Finance,59000,Japan,2021-08-22
+110,Manoj,38,Male,Sales,53000,Brazil,2020-02-11
+111,Rahul,26,Male,IT,46000,India,2019-09-05
+112,Madan,31,Male,HR,50000,USA,2021-12-01
+113,Viren,36,Male,Finance,60000,Germany,2017-10-20
+114,Akash,29,Male,IT,48000,India,2020-03-15
+115,Sameer,45,Male,Sales,65000,France,2018-04-18
+116,Yogesh,34,Male,Marketing,54000,India,2021-06-07
+117,Dipak,28,Male,Finance,58000,Australia,2019-10-28
+118,Vivek,39,Male,HR,49000,South Africa,2020-12-19
+119,Anil,42,Male,Sales,56000,Japan,2022-02-28
+120,Pradeep,37,Male,IT,62000,Brazil,2017-11-30
